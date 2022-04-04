@@ -1,0 +1,6 @@
+CREATE TABLE `Molecules` (
+`id` INT UNSIGNED NOT NULL AUTO_INCREMENT KEY,
+`cid` int unsigned NOT NULL,
+`molecule` longtext
+);
+ 
